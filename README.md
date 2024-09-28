@@ -42,6 +42,9 @@ The dataset includes detailed information on posts, such as:
 - **Python**: Pandas, Matplotlib, Seaborn for data manipulation and visualization.
 - **Jupyter Notebook**: For interactive data analysis and exploration.
 
+## Dataset Credit
+
+The dataset used in this project was sourced from [Kaggle](https://www.kaggle.com/datasets/dileeppatchaone/facebook-metrics-dataset-of-cosmetic-brand).
 ## Conclusion
 This analysis provides actionable insights into social media content strategy for cosmetic brands, helping marketers focus on post types and timing that drive the most engagement on Facebook.
 
